@@ -4,7 +4,7 @@
     <groupId>com.vsmart</groupId>
     <artifactId>vsmart</artifactId>
     <packaging>war</packaging>
-    <version>4.0</version>
+    <version>4</version>
     <name>Account vsmart</name>
     <url>http://maven.apache.org</url>
     <properties>
